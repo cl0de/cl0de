@@ -2,13 +2,13 @@
 
 # Clode Uwamariya
 
-## I am passionate for **technology**.
+## I am passionate about **technology**.
 
 I'm currently focused on expanding my experience in different dev technologies
-<br />
-<br />
+I'm looking to collaborate with other coders
 
-## Languages
+## Technologies
 
-- JavaScript
-- Ruby and Ruby on Rails
+I take advantage of various online teaching platforms to learn and develop new skills in web applications development and some of my courses include
+
+| JavaScript | Node.js | Ruby | Ruby on rails | PHP | MySQL | PostgreSQL | Heroku | Git |
