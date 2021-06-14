@@ -1,6 +1,6 @@
 ### Hi there, I'm
 
-### Clode Uwamariya
+# Clode Uwamariya
 
 ## I am passionate for **technology**.
 
